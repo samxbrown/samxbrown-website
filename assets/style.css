@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+/* background color changes the color of the background */
+body {
+    background-color: lightpink;
+}
+
+.header{
+    padding: 20px;
+    /* changes the font of the letters, color of font and the background color */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.headshot{ 
+    display: inline-block; 
+    position:relative; 
+    width: 200px; height: 200px; 
+    overflow: hidden; 
+    border-radius: 50%; 
+    width: auto;
+    height: 100%;
+    margin-left: 20px;
+}
