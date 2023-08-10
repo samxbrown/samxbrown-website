@@ -8,10 +8,11 @@ body {
     background-color: lightpink;
 }
 
-.header{
-    padding: 20px;
+.top{
     /* changes the font of the letters, color of font and the background color */
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Borel', cursive;
+    text-align: center;
+    background-color: darkmagenta;
 }
 
 .headshot{ 
@@ -21,6 +22,25 @@ body {
     overflow: hidden; 
     border-radius: 50%; 
     width: auto;
-    height: 100%;
+    height: 150%;
     margin-left: 20px;
+}
+
+.footer{
+    /* shows where the footer will be at on the page, the font the footer will be and how the text will be aligned */
+    padding: 30px;
+    clear:left;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    font-size: larger;
+}
+
+
+.li {
+        /* updates where the header words are located, what size and font they are */
+        padding-top: 15px;
+        margin-right: 20px;
+        float: right;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;
 }
