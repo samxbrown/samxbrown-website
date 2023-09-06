@@ -25,12 +25,11 @@ Once you have the project set up locally, you can:
 * Test the website for accessibility by ensuring it meets the acceptance criteria mentioned above.
 
 ## Screenshot
-
-
+<img width="1396" alt="Screenshot 2023-09-06 at 8 25 52 AM" src="https://github.com/samxbrown/samxbrown-website/assets/135293566/6b2248d6-c355-4569-a3d5-ea2605d0ae52">
 
 ## Credits
 
-I would like to thank my tutor JayTee Padilla for assistance with building this website.
+I would like to thank my tutor JayTee Padilla and Samuel Cordova for assistance with building this website.
 
 ## License
 
