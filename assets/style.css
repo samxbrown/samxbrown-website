@@ -44,3 +44,13 @@ body {
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         font-size: 20px;
 }
+
+.navbar, .navlinks {
+    /* makes he nav bars interactice */
+    display:flex;
+}
+
+.navlinks li{
+    /* moves nav links over */
+    margin-left: 200%;
+}
