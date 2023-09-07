@@ -26,6 +26,7 @@ Once you have the project set up locally, you can:
 
 ## Screenshot
 <img width="1396" alt="Screenshot 2023-09-06 at 8 25 52 AM" src="https://github.com/samxbrown/samxbrown-website/assets/135293566/6b2248d6-c355-4569-a3d5-ea2605d0ae52">
+http://127.0.0.1:5500/samxbrown-website/index.html
 
 ## Credits
 
